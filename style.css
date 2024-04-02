@@ -17,3 +17,25 @@ header ul {
 header li{
     list-style: none;
 }
+
+#home{
+    padding: 20px 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.direito img{
+    width: 11vw;
+    border-radius: 11px;
+    box-shadow: 20px 20px 20px rgba(0,0,0,0.3);
+}
+
+
+#home{
+    background-color: rgb(134, 192, 192);
+}
+
+#sobre, #projeto{
+    padding: 20px 70px;
+}
